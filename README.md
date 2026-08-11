@@ -19,7 +19,7 @@ Applying Python, machine learning, and data analytics to practical business prob
 ### Featured Project
 AkiliHight.com — Professional Portfolio
 A public portfolio showcasing my work across AI, healthcare technology, cloud, data, and technical program leadership. Built with React, TypeScript, and Supabase.
-[Visit AkiliHight.com] | [View the Repository]
+[Visit AkiliHight.com](https://akilihight.com/) | [View the Repository]
 
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/akilihight/)
