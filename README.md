@@ -14,7 +14,12 @@ My current focus is at the intersection of **AI, data science, cloud technology,
 - AI Strategy & Governance
 
 ### Currently Building
-Applying Python, machine learning, AI, and data analytics to practical business problems, with a focus on healthcare technology, decision support, and AI-enabled workflows.
+Applying Python, machine learning, and data analytics to practical business problems, with a focus on healthcare technology, decision support, and AI-enabled workflows.
+
+### Featured Project
+AkiliHight.com — Professional Portfolio
+A public portfolio showcasing my work across AI, healthcare technology, cloud, data, and technical program leadership. Built with React, TypeScript, and Supabase.
+[Visit AkiliHight.com] | [View the Repository]
 
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/akilihight/)
