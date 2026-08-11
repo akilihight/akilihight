@@ -13,8 +13,8 @@ My current focus is at the intersection of **AI, data science, cloud technology,
 - Data Analytics & Visualization
 - AI Strategy & Governance
 
-### Currently Exploring
-I'm continuing to build hands-on experience with Python, machine learning, AI, data analytics, and AI-enabled business solutions.
+### Currently Building
+Applying Python, machine learning, AI, and data analytics to practical business problems, with a focus on healthcare technology, decision support, and AI-enabled workflows.
 
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/akilihight/)
