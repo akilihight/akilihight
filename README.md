@@ -1,4 +1,4 @@
-# Hi, I'm Akili Hight 👋
+# Hi, I'm Akili Hight
 
 I'm a technology and program management leader with 20+ years of experience delivering complex initiatives across healthcare, technology, and public-sector environments.
 
